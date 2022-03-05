@@ -1,0 +1,13 @@
+:root{
+	--main-bg-color: #1a1a1d;
+	--editor-bg: #222c38;
+	--file-editor: #283341;
+	--primary-color: #66fcf1;
+	--secondary-color: #45a29e;
+}
+/* 05386b 379683 5cdb95 8ee4af edf5e1 */
+body{
+	background: var(--main-bg-color);
+	color: #fff;
+	font-family: 'PT Sans', sans-serif;
+}
